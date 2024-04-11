@@ -4,7 +4,7 @@
 Realizzazione del sito web Louis Vuitton.
 
 # Caratteristiche del progetto
-Il progetto è stato realizzato interamente in:
+Il progetto è stato realizzato interamente in:\n
 -html
 -css
 -javascript
